@@ -21,7 +21,7 @@ function Header() {
           : "bg-black lg:sticky top-0 z-10 overflow-hidden"
       }
     >
-      <div className="container mx-auto py-5 px-12 md:px-16 flex justify-between items-center">
+      <div className="container mx-auto py-5 px-8 md:px-16 flex justify-between items-center">
         <div>
           <h2 className="font-bold text-white text-lg">thisisjohn.com</h2>
         </div>

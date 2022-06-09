@@ -5,6 +5,10 @@
 }
 
 /***** HERO *****/
+.heroHeading {
+  font-size: 30px !important;
+}
+
 /* Animation */
 
 @keyframes fadeInUp {
@@ -44,4 +48,11 @@
   opacity: 0;
   animation-name: fadeInUp;
   -webkit-animation-name: fadeInUp;
+}
+
+/***** SKILLS & EXPERIENCE *****/
+@media screen and (max-width: 768px) {
+  .experience {
+    width: 100% !important;
+  }
 }

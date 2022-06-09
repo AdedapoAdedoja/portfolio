@@ -2,9 +2,12 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="container mx-auto py-20 px-12 md:px-16 bg-black overflow-hidden">
+    <div className="container mx-auto py-20 px-8 md:px-16 bg-black overflow-hidden">
       <div className="max-w-7xl">
-        <h1 className="text-white font-bold" style={{ fontSize: "85px" }}>
+        <h1
+          className="text-white font-bold heroHeading"
+          style={{ fontSize: "85px" }}
+        >
           I'm John Hopkins - Developer, Designer, Illustrator &amp; Movie
           Writer.
         </h1>
