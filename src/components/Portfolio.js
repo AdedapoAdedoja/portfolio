@@ -30,7 +30,7 @@ function Portfolio() {
           </a>
         </div>
         <a href="!#">
-          <img src={Portfolio1} alt="Work-1" className="max-w-sm max-h-96" />
+          <img src={Portfolio1} alt="Work-1" />
         </a>
       </div>
       <div>
