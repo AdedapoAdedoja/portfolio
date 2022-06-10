@@ -13,8 +13,8 @@ function Portfolio() {
   return (
     <div className="my-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 divide-y-2 divide-white">
       <div className="hidden"></div>
-      <div>
-        <div className="flex justify-between my-6">
+      <div className="overflow-hidden">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">Amoto Health</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">
@@ -34,7 +34,7 @@ function Portfolio() {
         </a>
       </div>
       <div>
-        <div className="flex justify-between my-6">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">Amoto Health</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">
@@ -54,7 +54,7 @@ function Portfolio() {
         </a>
       </div>
       <div>
-        <div className="flex justify-between my-6">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">EMIS</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">
@@ -74,7 +74,7 @@ function Portfolio() {
         </a>
       </div>
       <div>
-        <div className="flex justify-between my-6">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">Alumates</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">
@@ -94,7 +94,7 @@ function Portfolio() {
         </a>
       </div>
       <div>
-        <div className="flex justify-between my-6">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">FeelBetr</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">
@@ -116,7 +116,7 @@ function Portfolio() {
         </a>
       </div>
       <div>
-        <div className="flex justify-between my-6">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">Sam's Portfolio</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">
@@ -138,7 +138,7 @@ function Portfolio() {
         </a>
       </div>
       <div>
-        <div className="flex justify-between my-6">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">Squire</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">
@@ -160,7 +160,7 @@ function Portfolio() {
         </a>
       </div>
       <div>
-        <div className="flex justify-between my-6">
+        <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">EatBetr</h3>
             <p className="text-gray-500 opacity-75 font-normal text-2xl">

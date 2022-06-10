@@ -5,6 +5,11 @@
 }
 
 /***** HERO *****/
+@media screen and (max-width: 1024px) {
+  .container {
+    max-width: 100% !important;
+  }
+}
 @media screen and (max-width: 768px) {
   .heroHeading {
     font-size: 30px !important;
@@ -74,5 +79,14 @@
   .cvLink {
     width: 180px !important;
     height: 180px !important;
+  }
+}
+
+/******* ABOUT *******/
+@media screen and (max-width: 768px) {
+  .aboutImg {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 auto;
   }
 }
