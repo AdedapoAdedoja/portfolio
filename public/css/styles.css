@@ -1,12 +1,14 @@
 /******* HEADER *******/
 .active {
   background-color: #020202a3;
-  /* transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s; */
+  backdrop-filter: saturate(180%) blur(20px);
 }
 
 /***** HERO *****/
-.heroHeading {
-  font-size: 30px !important;
+@media screen and (max-width: 768px) {
+  .heroHeading {
+    font-size: 30px !important;
+  }
 }
 
 /* Animation */
@@ -54,5 +56,23 @@
 @media screen and (max-width: 768px) {
   .experience {
     width: 100% !important;
+  }
+  .skillHeading {
+    font-size: 30px !important;
+    width: 12rem !important;
+  }
+}
+
+/***** WORKS *****/
+.animate-spin {
+  animation-duration: 20000ms !important;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@media screen and (max-width: 768px) {
+  .cvLink {
+    width: 180px !important;
+    height: 180px !important;
   }
 }

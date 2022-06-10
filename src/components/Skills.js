@@ -9,8 +9,11 @@ import CopyWriting from "./assets/Creative-Writing.png";
 function Skills() {
   return (
     <div className="container mx-auto py-20 px-8 md:px-16 block md:flex justify-between items-center relative">
-      <div className="text-gray-800 flex flex-col space-y-32 lg:space-y-52 mb-10 md:mb-0">
-        <h2 className="font-bold w-80" style={{ fontSize: "60px" }}>
+      <div className="text-gray-800 flex flex-col space-y-24 md:space-y-32 lg:space-y-52 mb-10 md:mb-0">
+        <h2
+          className="font-bold w-80 skillHeading"
+          style={{ fontSize: "60px" }}
+        >
           Skills &amp; Experience
         </h2>
         <div className="my-16 grid grid-cols-3 gap-8">

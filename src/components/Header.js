@@ -17,7 +17,7 @@ function Header() {
     <header
       className={
         navbar
-          ? "lg:sticky top-0 z-10 active overflow-hidden"
+          ? "sticky top-0 z-50 active overflow-hidden"
           : "bg-black lg:sticky top-0 z-10 overflow-hidden"
       }
     >
