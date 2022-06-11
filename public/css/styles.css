@@ -81,10 +81,22 @@
   animation-timing-function: linear;
 }
 
+@media screen and (max-width: 1024px) {
+  .worksHeading {
+    font-size: 45px !important;
+    width: 14rem !important;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .cvLink {
     width: 180px !important;
     height: 180px !important;
+  }
+
+  .worksHeading {
+    font-size: 30px !important;
+    width: 10rem !important;
   }
 }
 

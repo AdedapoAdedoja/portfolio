@@ -9,7 +9,10 @@ function Works() {
         <img src={ResumeLink} alt="CV" className="cvLink" />
       </div>
       <div className="container mx-auto py-20 px-8 md:px-16 block">
-        <h2 className="font-bold w-72 text-white" style={{ fontSize: "60px" }}>
+        <h2
+          className="font-bold w-72 text-white worksHeading"
+          style={{ fontSize: "60px" }}
+        >
           Selected Works
         </h2>
         <Portfolio />

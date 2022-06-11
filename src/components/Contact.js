@@ -5,7 +5,10 @@ function Contact() {
   return (
     <div className="container mx-auto py-20 px-8 md:px-16 block lg:flex justify-between bg-black overflow-hidden">
       <div className="flex flex-col">
-        <h2 className="font-bold w-80 text-white" style={{ fontSize: "60px" }}>
+        <h2
+          className="font-bold w-80 text-white worksHeading"
+          style={{ fontSize: "60px" }}
+        >
           Let's Work Together!
         </h2>
         <div className="divide-y-2 divide-white max-w-3xl space-y-8">
