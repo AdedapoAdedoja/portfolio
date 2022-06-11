@@ -76,11 +76,12 @@ function Contact() {
         </div>
       </div>
       <div
-        className="max-w-3xl border-2 border-white p-36 rounded-full object-contain"
+        className="max-w-3xl border-2 border-white p-24 rounded-full flex items-center object-contain mt-11 lg:mt-0 contactCircle mx-auto lg:mx-0"
         style={{ width: "464px", height: "464px" }}
       >
-        <div className="flex items-baseline underline text-white w-full">
-          <span>Hire me...</span>
+        <div className="flex justify-center items-baseline underline text-white w-full">
+          <span className="text-base">Hire me...</span>
+          {/* <hr /> */}
           <div className="right-14">
             <img
               src={GroupSvg}

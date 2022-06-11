@@ -58,6 +58,12 @@
 }
 
 /***** SKILLS & EXPERIENCE *****/
+@media screen and (max-width: 1024px) {
+  .skillHeading {
+    font-size: 45px !important;
+    width: 15rem !important;
+  }
+}
 @media screen and (max-width: 768px) {
   .experience {
     width: 100% !important;
@@ -83,10 +89,27 @@
 }
 
 /******* ABOUT *******/
+@media screen and (max-width: 1024px) {
+  .about {
+    width: 100% !important;
+  }
+}
 @media screen and (max-width: 768px) {
+  .about {
+    width: 100% !important;
+  }
+
   .aboutImg {
     width: 100% !important;
     height: 100% !important;
     margin: 0 auto;
+  }
+}
+
+/******* CONTACT *******/
+@media screen and (max-width: 768px) {
+  .contactCircle {
+    width: 350px !important;
+    height: 350px !important;
   }
 }

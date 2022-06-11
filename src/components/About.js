@@ -11,15 +11,18 @@ function About() {
         >
           About me
         </h2>
-        <div className="aboutImg" style={{ width: "454px", height: "513px" }}>
+        <div
+          className="aboutImg mx-auto lg:mx-0"
+          style={{ width: "454px", height: "513px" }}
+        >
           <img src={MyPic} alt="Me" />
         </div>
       </div>
       <div
-        className="divide-y-2 divide-black space-y-12 experience"
+        className="divide-y-2 divide-black space-y-12 about"
         style={{ width: "60%" }}
       >
-        <h5 className="text-2xl font-medium mt-8">
+        <h5 className="text-2xl font-medium md:mt-28 lg:mt-8">
           “Blinder, scholar, coder, dreamer... and the rest”
         </h5>
         <p className="font-normal text-xl leading-7 py-10">

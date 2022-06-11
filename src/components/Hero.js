@@ -2,8 +2,8 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="container mx-auto py-20 px-8 md:px-16 bg-black overflow-hidden">
-      <div className="max-w-7xl">
+    <div className="mx-auto py-20 px-8 md:px-16 bg-black overflow-hidden">
+      <div className="max-w-full">
         <h1
           className="text-white font-bold heroHeading"
           style={{ fontSize: "85px" }}

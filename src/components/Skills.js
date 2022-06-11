@@ -8,7 +8,7 @@ import CopyWriting from "./assets/Creative-Writing.png";
 
 function Skills() {
   return (
-    <div className="container mx-auto py-20 px-8 md:px-16 block md:flex justify-between items-center relative">
+    <div className="container mx-auto py-20 px-8 md:px-16 block md:flex justify-between lg:items-center relative">
       <div className="text-gray-800 flex flex-col space-y-24 md:space-y-32 lg:space-y-52 mb-10 md:mb-0">
         <h2
           className="font-bold w-80 skillHeading"
@@ -16,12 +16,12 @@ function Skills() {
         >
           Skills &amp; Experience
         </h2>
-        <div className="my-16 grid grid-cols-3 gap-8">
+        <div className="my-16 grid grid-cols-3 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div className="flex flex-col space-y-2">
             <img
               src={VisualDesign}
               alt="Visual Design"
-              className="w-16 h-16 mx-auto"
+              className="w-12 h-12 lg:w-16 lg:h-16 mx-auto"
             />
             <p className="text-base font-medium text-center mx-auto">
               Visual Design
@@ -31,7 +31,7 @@ function Skills() {
             <img
               src={InteractionDesign}
               alt="Interaction Design"
-              className="w-16 h-16 mx-auto"
+              className="w-12 h-12 lg:w-16 lg:h-16 mx-auto"
             />
             <p className="text-base font-medium text-center mx-auto">
               Interaction Design
@@ -41,7 +41,7 @@ function Skills() {
             <img
               src={Prototyping}
               alt="Prototyping"
-              className="w-16 h-16 mx-auto"
+              className="w-12 h-12 lg:w-16 lg:h-16 mx-auto"
             />
             <p className="text-base font-medium text-center mx-auto">
               Prototyping
@@ -51,7 +51,7 @@ function Skills() {
             <img
               src={UxResearch}
               alt="UX Research"
-              className="w-16 h-16 mx-auto"
+              className="w-12 h-12 lg:w-16 lg:h-16 mx-auto"
             />
             <p className="text-base font-medium text-center mx-auto">
               UX Research
@@ -61,7 +61,7 @@ function Skills() {
             <img
               src={StoryTelling}
               alt="Storytelling"
-              className="w-16 h-16 mx-auto"
+              className="w-12 h-12 lg:w-16 lg:h-16 mx-auto"
             />
             <p className="text-base font-medium text-center mx-auto">
               Storytelling
@@ -71,7 +71,7 @@ function Skills() {
             <img
               src={CopyWriting}
               alt="UX Copywriting"
-              className="w-16 h-16 mx-auto"
+              className="w-12 h-12 lg:w-16 lg:h-16 mx-auto"
             />
             <p className="text-base font-medium mx-auto">UX Copywriting</p>
           </div>
