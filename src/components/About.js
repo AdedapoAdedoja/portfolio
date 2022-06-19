@@ -3,7 +3,10 @@ import MyPic from "./assets/me-1.jpg";
 
 function About() {
   return (
-    <div className="container mx-auto py-20 px-8 md:px-16 block lg:flex justify-between mb-10 overflow-hidden">
+    <div
+      className="container mx-auto py-20 px-8 md:px-16 block lg:flex justify-between mb-10 overflow-hidden"
+      id="about"
+    >
       <div className="flex flex-col space-y-12 md:space-y-14 lg:space-y-20 mb-16 md:mb-0">
         <h2
           className="font-bold w-80 skillHeading"

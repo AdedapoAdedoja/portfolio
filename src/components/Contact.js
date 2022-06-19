@@ -3,7 +3,7 @@ import GroupSvg from "./assets/Group-692.svg";
 
 function Contact() {
   return (
-    <div className="container mx-auto py-20 px-8 md:px-16 block lg:flex justify-between bg-black overflow-hidden">
+    <div className="container mx-auto py-20 px-8 md:px-16 block lg:flex justify-between bg-black overflow-hidden" id="contact">
       <div className="flex flex-col">
         <h2
           className="font-bold w-80 text-white worksHeading"

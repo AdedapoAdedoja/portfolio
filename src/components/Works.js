@@ -4,7 +4,7 @@ import Portfolio from "./Portfolio";
 
 function Works() {
   return (
-    <div className="bg-black left-0 relative">
+    <div className="bg-black left-0 relative" id="projects">
       <div className="absolute z-20 right-8 md:right-20 -top-24 animate-spin cursor-pointer">
         <img src={ResumeLink} alt="CV" className="cvLink" />
       </div>
