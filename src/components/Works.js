@@ -16,10 +16,10 @@ function Works() {
 
       <div className="container mx-auto py-20 px-8 md:px-16 block">
         <h2
-          className="font-bold w-72 text-white worksHeading"
+          className="font-bold text-white worksHeading"
           style={{ fontSize: "60px" }}
         >
-          Selected Works
+          My Projects
         </h2>
         <Portfolio />
       </div>

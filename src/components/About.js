@@ -32,7 +32,7 @@ function About() {
           me. I enjoy creating amazing web and mobile experiences for small
           businesses and startups.
           <br />
-          <br /> I have experience working in teams of various sizes and am a
+          <br /> I have experience working in teams of various sizes and I am a
           seasoned team player with strong communication skills.
           <br />
           <br />I am also an outstanding project manager who consistently offers
