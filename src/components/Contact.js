@@ -109,7 +109,7 @@ function Contact() {
       >
         <div className="flex justify-center items-baseline underline text-white w-full">
           <a
-            href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f37c4f5a-16ed-3605-ba7e-b4b17bb57f0f"
+            href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:87bee56a-bc42-3a4c-aab2-c58bc3bebf2f#pageNum=1"
             target="_blank"
             rel="noopener noreferrer"
           >
