@@ -1,5 +1,4 @@
-import React from "react";
-import MyPic from "./assets/me-1.jpg";
+import MyPic from "./assets/my-pics.jpeg";
 
 function About() {
   return (
@@ -16,31 +15,28 @@ function About() {
         </h2>
         <div
           className="aboutImg mx-auto lg:mx-0"
-          style={{ width: "454px", height: "513px" }}
+          style={{ width: "354px", height: "413px" }}
         >
           <img src={MyPic} alt="Me" />
         </div>
       </div>
       <div
         className="divide-y-2 divide-black space-y-12 about"
-        style={{ width: "60%" }}
+        style={{ width: "40%" }}
       >
         <h5 className="text-2xl font-medium md:mt-28 lg:mt-8">
-          “Blinder, scholar, coder, dreamer... and the rest”
+          “I don't just design , I create magic”
         </h5>
         <p className="font-normal text-xl leading-7 py-10">
-          I love creating things, and watching them come alive. I love making
-          people happier through design. I love telling stories that inspire the
-          world to have courage and lead with kindness. My driving force is
-          empathy.
-          <br /> <br /> When I’m not designing and telling stories, I’m watching
-          movies! I think cinema is the single greatest thing man has invented.
+          As a product designer, accessibility and design are very important to
+          me. I enjoy creating amazing web and mobile experiences for small
+          businesses and startups.
           <br />
+          <br /> I have experience working in teams of various sizes and am a
+          seasoned team player with strong communication skills.
           <br />
-          My post-tech dream is to retire to a quiet little Island somewhere
-          sunny, spend my days writing scripts for independent filmmakers. Maybe
-          make a few cartoons as well. <br />
-          <br />I live in a little corner of the world called Abuja.
+          <br />I am also an outstanding project manager who consistently offers
+          solutions that are visually appealing and user-friendly.
         </p>
         <p></p>
       </div>
