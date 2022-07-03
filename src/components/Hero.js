@@ -4,10 +4,10 @@ function Hero() {
       <div className="max-w-full">
         <h1
           className="text-white font-bold heroHeading"
-          style={{ fontSize: "85px" }}
+          style={{ fontSize: "50px" }}
         >
-          I'm John Hopkins - Developer, Designer, Illustrator &amp; Movie
-          Writer.
+          I Am Adedapo Adedoja - Product Designer, Visual Storyteller, UX
+          Researcher & Agile Project Manager.
         </h1>
       </div>
       <div className="my-11 flex flex-wrap flex-row items-center space-x-6">
@@ -96,14 +96,7 @@ function Hero() {
         className="max-w-2xl my-4 font-medium leading-7 text-white animated animatedFadeInUp fadeInUp"
         style={{ fontSize: "20px" }}
       >
-        <span className="text-gray-400 opacity-75">
-          I’m a multidisciplinary developer based in
-        </span>{" "}
-        Berlin, Germany. <span>My specialties are</span> Visual{" "}
-        <span className="text-gray-400 opacity-75">and</span> User Interface
-        Design, User Experience Design
-        <span className="text-gray-400 opacity-75">, and</span> binge-watching
-        Peaky Blinders!
+        <span className="text-gray-400 opacity-75">Bremen,</span> Germany
       </p>
     </div>
   );

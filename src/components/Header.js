@@ -1,5 +1,5 @@
-import React, { useState } from "react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
+import { useState } from "react";
 
 function Header() {
   const [navbar, setNavbar] = useState(false);
@@ -24,7 +24,7 @@ function Header() {
     >
       <div className="container mx-auto py-5 px-8 md:px-16 flex justify-between items-center">
         <div>
-          <h2 className="font-bold text-white text-lg">thisisjohn.com</h2>
+          <h2 className="font-bold text-white text-lg">adedapo.netlify.app</h2>
         </div>
         <div className="hidden md:flex flex-wrap flex-row items-center text-white text-base font-medium space-x-8">
           <a href="#skills" rel="noreferrer">
