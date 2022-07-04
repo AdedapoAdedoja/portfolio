@@ -1,9 +1,9 @@
-import FindalyzeMobile from "./assets/findalyze-mobile.jpg";
+import FindalyzeMobile from "./assets/findalyze-mobile-removebg.png";
 import FindalyzeWeb from "./assets/findalyze-web.jpg";
-import Photography from "./assets/photography.jpg";
+import Photography from "./assets/photography-removebg.png";
 import Portfolio1 from "./assets/portfolio.jpg";
 import Regenate from "./assets/regenate.svg";
-import Todo from "./assets/todo.jpg";
+import Todo from "./assets/todo-removebg.png";
 import WorkCta from "./assets/work-cta.svg";
 
 function Portfolio() {
