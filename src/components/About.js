@@ -25,7 +25,7 @@ function About() {
         style={{ width: "40%" }}
       >
         <h5 className="text-2xl font-medium md:mt-28 lg:mt-8">
-          “I don't just design , I create magic”
+          “I don't just design, I create magic”
         </h5>
         <p className="font-normal text-xl leading-7 py-10">
           As a product designer, accessibility and design are very important to
