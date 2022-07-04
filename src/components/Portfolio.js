@@ -105,7 +105,7 @@ function Portfolio() {
           <img
             src={Portfolio1}
             alt="Work-1"
-            style={{ width: "350px", height: "360px", objectFit: "center" }}
+            style={{ width: "350px", height: "360px" }}
           />
         </a>
       </div>
