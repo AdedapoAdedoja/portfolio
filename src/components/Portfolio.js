@@ -140,7 +140,7 @@ function Portfolio() {
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">Todo</h3>
             <p className="text-white opacity-75 font-normal text-2xl">
-              Mobile Website
+              Mobile Application
             </p>
           </div>
           <div>
