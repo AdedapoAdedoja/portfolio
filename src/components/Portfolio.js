@@ -1,9 +1,8 @@
 import FindalyzeMobile from "./assets/findalyze-mobile-removebg.png";
 import FindalyzeWeb from "./assets/findalyze-web.jpg";
-import Photography from "./assets/photography-removebg.png";
+import Nivea from "./assets/nivea-app.png";
 import Portfolio1 from "./assets/portfolio.jpg";
 import Regenate from "./assets/regenate.svg";
-import Todo from "./assets/todo-removebg.png";
 import WorkCta from "./assets/work-cta.svg";
 
 function Portfolio() {
@@ -109,7 +108,7 @@ function Portfolio() {
           />
         </a>
       </div>
-      <div>
+      {/* <div>
         <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
             <h3 className="text-white text-3xl font-bold">Photo</h3>
@@ -134,11 +133,11 @@ function Portfolio() {
             style={{ width: "350px", height: "360px" }}
           />
         </a>
-      </div>
+      </div> */}
       <div>
         <div className="flex justify-between my-16 md:my-6">
           <div className="flex flex-col space-y-3">
-            <h3 className="text-white text-3xl font-bold">Todo</h3>
+            <h3 className="text-white text-3xl font-bold">Nivea Clone</h3>
             <p className="text-white opacity-75 font-normal text-2xl">
               Mobile Application
             </p>
@@ -155,7 +154,7 @@ function Portfolio() {
         </div>
         <a href="https://www.figma.com/proto/GnA8YEKlACEmJwH81h25pA/Todo-App-Design?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1">
           <img
-            src={Todo}
+            src={Nivea}
             alt="Work-1"
             style={{ width: "350px", height: "360px" }}
           />
