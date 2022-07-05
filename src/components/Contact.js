@@ -107,7 +107,10 @@ function Contact() {
         className="max-w-3xl border-2 border-white p-24 rounded-full flex items-center object-contain mt-11 lg:mt-0 contactCircle mx-auto lg:mx-0"
         style={{ width: "364px", height: "364px" }}
       >
-        <div className="flex justify-center items-baseline underline text-white w-full">
+        <div
+          className="flex justify-center items-baseline underline text-white w-full"
+          style={{ position: "relative" }}
+        >
           <a
             href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:87bee56a-bc42-3a4c-aab2-c58bc3bebf2f#pageNum=1"
             target="_blank"
@@ -119,7 +122,17 @@ function Contact() {
                 alt="Group"
                 className="hover:rotate-45 transition duration-300 ease-in-out"
               />
-              <div style={{ textAlign: "center" }}>Resume</div>
+              <div
+                style={{
+                  textAlign: "center",
+                  position: "absolute",
+                  left: "50%",
+                  bottom: "-55%",
+                  transform: "translate(-50%, -50%)",
+                }}
+              >
+                View My Resume
+              </div>
             </div>
           </a>
         </div>
