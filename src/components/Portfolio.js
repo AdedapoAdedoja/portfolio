@@ -17,7 +17,11 @@ function Portfolio() {
               Web Application
             </p>
           </div>
-          <a href="https://www.figma.com/proto/Cf2wfYK5hrLujN4yXwFQp1/Regenate-Project?node-id=520%3A537&scaling=scale-down&page-id=0%3A1&starting-point-node-id=520%3A537">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://www.youtube.com/watch?v=e8D6wayVBaw"
+          >
             <img
               src={WorkCta}
               alt=""
@@ -25,7 +29,11 @@ function Portfolio() {
             />
           </a>
         </div>
-        <a href="https://www.figma.com/proto/Cf2wfYK5hrLujN4yXwFQp1/Regenate-Project?node-id=520%3A537&scaling=scale-down&page-id=0%3A1&starting-point-node-id=520%3A537">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.youtube.com/watch?v=e8D6wayVBaw"
+        >
           <img
             src={Regenate}
             alt="Work-1"
@@ -41,7 +49,11 @@ function Portfolio() {
               Mobile Application
             </p>
           </div>
-          <a href="https://www.figma.com/proto/4kIU22R8xBOQXU8nAnAeEG/Findalyze-Mobile?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://www.figma.com/proto/4kIU22R8xBOQXU8nAnAeEG/Findalyze-Mobile?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1"
+          >
             <img
               src={WorkCta}
               alt=""
@@ -50,6 +62,8 @@ function Portfolio() {
           </a>
         </div>
         <a
+          target="_blank"
+          rel="noreferrer"
           href="https://www.figma.com/proto/4kIU22R8xBOQXU8nAnAeEG/Findalyze-Mobile?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1"
           className="w-96 max-h-96"
         >
@@ -68,7 +82,11 @@ function Portfolio() {
               Web Application
             </p>
           </div>
-          <a href="https://www.figma.com/proto/MuIq8pfznWjSGFs85Dmnsr/Findalyze-Project?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://www.youtube.com/watch?v=401hQN8qHHQ"
+          >
             <img
               src={WorkCta}
               alt=""
@@ -76,7 +94,11 @@ function Portfolio() {
             />
           </a>
         </div>
-        <a href="https://www.figma.com/proto/MuIq8pfznWjSGFs85Dmnsr/Findalyze-Project?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.youtube.com/watch?v=401hQN8qHHQ"
+        >
           <img
             src={FindalyzeWeb}
             alt="Work-1"
@@ -92,7 +114,11 @@ function Portfolio() {
               Website Application
             </p>
           </div>
-          <a href="https://www.figma.com/proto/eSiVt5C54Adn4lTeeRLQ8f/Portfolio-Design?node-id=2%3A3&scaling=min-zoom&page-id=0%3A1">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://www.youtube.com/watch?v=ehdT19LW52w"
+          >
             <img
               src={WorkCta}
               alt=""
@@ -100,7 +126,11 @@ function Portfolio() {
             />
           </a>
         </div>
-        <a href="https://www.figma.com/proto/eSiVt5C54Adn4lTeeRLQ8f/Portfolio-Design?node-id=2%3A3&scaling=min-zoom&page-id=0%3A1">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.youtube.com/watch?v=ehdT19LW52w"
+        >
           <img
             src={Portfolio1}
             alt="Work-1"
@@ -143,7 +173,11 @@ function Portfolio() {
             </p>
           </div>
           <div>
-            <a href="https://www.figma.com/proto/GnA8YEKlACEmJwH81h25pA/Todo-App-Design?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://www.figma.com/proto/GnA8YEKlACEmJwH81h25pA/Todo-App-Design?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1"
+            >
               <img
                 src={WorkCta}
                 alt=""
@@ -152,7 +186,11 @@ function Portfolio() {
             </a>
           </div>
         </div>
-        <a href="https://www.figma.com/proto/GnA8YEKlACEmJwH81h25pA/Todo-App-Design?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.figma.com/proto/GnA8YEKlACEmJwH81h25pA/Todo-App-Design?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1"
+        >
           <img
             src={Nivea}
             alt="Work-1"
