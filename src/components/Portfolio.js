@@ -52,7 +52,7 @@ function Portfolio() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.figma.com/proto/4kIU22R8xBOQXU8nAnAeEG/Findalyze-Mobile?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1"
+            href="https://www.youtube.com/watch?v=tqLWVv6Pb_8"
           >
             <img
               src={WorkCta}
@@ -64,7 +64,7 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.figma.com/proto/4kIU22R8xBOQXU8nAnAeEG/Findalyze-Mobile?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1"
+          href="https://www.youtube.com/watch?v=tqLWVv6Pb_8"
           className="w-96 max-h-96"
         >
           <img
