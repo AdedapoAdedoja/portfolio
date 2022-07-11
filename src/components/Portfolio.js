@@ -64,7 +64,7 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.youtube.com/watch?v=tqLWVv6Pb_8"
+          href="https://www.behance.net/gallery/147899075/Home-Page-for-Findalyze-Mobile"
           className="w-96 max-h-96"
         >
           <img
@@ -129,7 +129,7 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.youtube.com/watch?v=ehdT19LW52w"
+          href="https://www.behance.net/gallery/147902317/UIUX-Portfolio-design-templates"
         >
           <img
             src={Portfolio1}
