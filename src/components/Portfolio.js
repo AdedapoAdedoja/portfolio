@@ -1,9 +1,9 @@
 import FindalyzeMobile from "./assets/findalyze-mobile-removebg.png";
 import FindalyzeWeb from "./assets/findalyze-web.jpg";
-import Nivea from "./assets/nivea-app.png";
+import Nivea from "./assets/nivea-app.jpg";
 import Portfolio1 from "./assets/portfolio.jpg";
 import Regenate from "./assets/regenate.svg";
-import WorkCta from "./assets/work-cta.svg";
+import Youtube from "./assets/youtube.png";
 
 function Portfolio() {
   return (
@@ -23,7 +23,7 @@ function Portfolio() {
             href="https://www.youtube.com/watch?v=e8D6wayVBaw"
           >
             <img
-              src={WorkCta}
+              src={Youtube}
               alt=""
               className="w-12 h-12 hover:rotate-45 transition duration-300 ease-in-out"
             />
@@ -32,7 +32,7 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.youtube.com/watch?v=e8D6wayVBaw"
+          href="https://www.behance.net/gallery/147876767/Regenate-Web-Interface-Design"
         >
           <img
             src={Regenate}
@@ -55,7 +55,7 @@ function Portfolio() {
             href="https://www.youtube.com/watch?v=tqLWVv6Pb_8"
           >
             <img
-              src={WorkCta}
+              src={Youtube}
               alt=""
               className="w-12 h-12 hover:rotate-45 transition duration-300 ease-in-out"
             />
@@ -88,7 +88,7 @@ function Portfolio() {
             href="https://www.youtube.com/watch?v=401hQN8qHHQ"
           >
             <img
-              src={WorkCta}
+              src={Youtube}
               alt=""
               className="w-12 h-12 hover:rotate-45 transition duration-300 ease-in-out"
             />
@@ -97,7 +97,7 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.youtube.com/watch?v=401hQN8qHHQ"
+          href="https://www.behance.net/gallery/147870583/Touch-up-design-for-Findalyze-website?tracking_source=for_you_feed_user_published"
         >
           <img
             src={FindalyzeWeb}
@@ -120,7 +120,7 @@ function Portfolio() {
             href="https://www.youtube.com/watch?v=ehdT19LW52w"
           >
             <img
-              src={WorkCta}
+              src={Youtube}
               alt=""
               className="w-12 h-12 hover:rotate-45 transition duration-300 ease-in-out"
             />
@@ -176,10 +176,10 @@ function Portfolio() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://www.figma.com/proto/GnA8YEKlACEmJwH81h25pA/Todo-App-Design?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1"
+              href="https://www.youtube.com/watch?v=KH-8OFiHhgg"
             >
               <img
-                src={WorkCta}
+                src={Youtube}
                 alt=""
                 className="w-12 h-12 hover:rotate-45 transition duration-300 ease-in-out"
               />
@@ -189,7 +189,7 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.figma.com/proto/GnA8YEKlACEmJwH81h25pA/Todo-App-Design?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1"
+          href="https://www.behance.net/gallery/147855301/Mobile-Interface-for-Nivea"
         >
           <img
             src={Nivea}
